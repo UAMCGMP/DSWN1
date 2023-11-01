@@ -1,0 +1,9 @@
+# Standard Text Behavior
+
+* text=auto eol=lf
+
+# Binary Files
+
+*.db binary
+*.ico binary
+*.webp binary
